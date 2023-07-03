@@ -15,6 +15,7 @@ public class Main {
         addMovie.setTotalMinutes(121);
         addMovie.setPlanIncluded(true);
         addMovie.setDirector("Sam Raimi");
+        addMovie.setTotalViews(1000);
 
         addSerie.setName("Suits");
         addSerie.setSeasons(5);
@@ -23,6 +24,7 @@ public class Main {
         addSerie.setEpMinutes(50);
         addSerie.setPlanIncluded(false);
         addSerie.setActive(true);
+        addSerie.setTotalViews(500);
 
 
         util.rate(addMovie, 8);

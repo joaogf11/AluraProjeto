@@ -1,5 +1,7 @@
 package br.com.java.screenmatch.models;
 
+import br.com.java.screenmatch.utils.Utils;
+
 //TITLE
 public class Title {
     private String name;
@@ -7,6 +9,9 @@ public class Title {
     public boolean planIncluded;
     private double ratingSum;
     private int totalRatings;
+    private String recommend;
+    private int totalViews;
+    private int Star;
 
 
     public void setName(String name) {
@@ -47,5 +52,27 @@ public class Title {
 
     public int getTotalRatings() {
         return totalRatings;
+    }
+
+    public int getTotalViews() {
+        return totalViews;
+    }
+
+    public void setTotalViews(int totalViews) {
+        this.totalViews = totalViews;
+    }
+
+    public int getStar() {
+        return setStar(totalViews);
+    }
+
+    public int setStar(int totalViews) {
+        if (totalViews >= 1000) {
+            return 4;
+        } else if (totalViews >= 500) {
+            return 3;
+        } else {
+            return 2;
+        }
     }
 }

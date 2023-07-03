@@ -5,7 +5,6 @@ public class Movies extends Title{
     private String director;
     private int totalMinutes;
 
-
     public String getDirector(){
         return director;
     }
