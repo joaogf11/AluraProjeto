@@ -1,6 +1,5 @@
 package br.com.java.screenmatch.models;
 
-//SERIES
 public class Series extends Title{
 
     private int seasons;

@@ -4,7 +4,6 @@ import br.com.java.screenmatch.models.Movies;
 import br.com.java.screenmatch.models.Series;
 import br.com.java.screenmatch.utils.Utils;
 
-//MAIN
 public class Main {
     public static void main(String[] args) {
         Movies addMovie = new Movies();

@@ -1,6 +1,5 @@
 package br.com.java.screenmatch.models;
 
-//MOVIES
 public class Movies extends Title{
     private String director;
     private int totalMinutes;

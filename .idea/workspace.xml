@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc07689c-f59a-4576-99c4-ebb7c895580f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/java/screenmatch/models/Episodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="fc07689c-f59a-4576-99c4-ebb7c895580f" name="Changes" comment="Atualização v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/java/screenmatch/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/java/screenmatch/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/java/screenmatch/models/Movies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/java/screenmatch/models/Movies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/java/screenmatch/models/Title.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/java/screenmatch/models/Title.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/java/screenmatch/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/java/screenmatch/utils/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +21,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="ProjectId" id="2RqdkVPetD8qCBXxrL6QK35fZjl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,11 +58,25 @@
       <workItem from="1687981690365" duration="1000" />
       <workItem from="1688137736689" duration="1929000" />
       <workItem from="1688391193476" duration="3391000" />
-      <workItem from="1688397471937" duration="1185000" />
+      <workItem from="1688397471937" duration="2404000" />
+      <workItem from="1688400974495" duration="395000" />
     </task>
+    <task id="LOCAL-00001" summary="Atualização v2">
+      <option name="closed" value="true" />
+      <created>1688399612704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688399612704</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualização v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização v2" />
   </component>
 </project>

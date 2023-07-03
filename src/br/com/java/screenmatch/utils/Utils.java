@@ -1,11 +1,9 @@
 package br.com.java.screenmatch.utils;
 
-import br.com.java.screenmatch.Main;
 import br.com.java.screenmatch.models.Movies;
 import br.com.java.screenmatch.models.Series;
 import br.com.java.screenmatch.models.Title;
 
-//UTILS
 
 public class Utils{
     public void printMovie(Movies movie) {

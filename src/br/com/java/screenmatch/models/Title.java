@@ -1,8 +1,5 @@
 package br.com.java.screenmatch.models;
 
-import br.com.java.screenmatch.utils.Utils;
-
-//TITLE
 public class Title {
     private String name;
     private int releaseYear;
